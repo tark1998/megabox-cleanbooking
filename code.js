@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         megabox
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tark1998/megabox-cleanbooking
 // @version      2024-03-07
 // @description  try to take over the world!
 // @author       You
