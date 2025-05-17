@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         megabox
+// @name         megabox-cleanbooking
 // @namespace    https://github.com/tark1998/megabox-cleanbooking
 // @version      2024-03-07
 // @description  try to take over the world!
