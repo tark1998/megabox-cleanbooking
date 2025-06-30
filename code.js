@@ -4,7 +4,7 @@
 // @version      2024-03-07
 // @description  clean the movie list in megabox booking
 // @author       You
-// @match        *://megabox.co.kr/*/simpleBookingPage.do*
+// @match        https://www.megabox.co.kr/on/oh/ohb/SimpleBooking/simpleBookingPage.do*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_addStyle
 // ==/UserScript==
